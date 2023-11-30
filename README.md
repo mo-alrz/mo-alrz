@@ -4,5 +4,5 @@ I am Mohamad and I am interested in everything about data anlytics and machine l
 
 Here, you can find a compilation of all the projects and achievements I've worked on over the past year.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-alrz&show_icons=true&theme=transparent)
+<! -- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-alrz&show_icons=true&theme=transparent) -->
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz)
