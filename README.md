@@ -7,37 +7,33 @@ Here, you can find a compilation of all the projects and achievements I've worke
 <!-- ![Anurag's GitHub stats] *** (https://github-readme-stats.vercel.app/api?username=mo-alrz&show_icons=true&theme=transparent) 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz)
 
-![Top Langs]()
+![Top Langs]() 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
 </a> -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <style>
-        .github-stats-container {
-            display: inline-block;
-            margin-right: 10px; /* Adjust the margin as needed */
+        body {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        a {
+            text-align: center;
         }
     </style>
     <title>GitHub Stats</title>
 </head>
 <body>
-    <div class="github-stats-container">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
-        </a>
-    </div>
-    <div class="github-stats-container">
-        <a href="https://github.com/anuraghazra/convoychat">
-            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
-        </a>
-    </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
+    </a>
 </body>
 </html>
 
