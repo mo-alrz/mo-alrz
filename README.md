@@ -1,17 +1,12 @@
-<body style="text-align: center;">
-    <p style="display: inline-block; text-align: left;">
-        ### Hi there, Welcome to my GitHub Profile👋
-        <br><br>
-        I am Mohamad and I am interested in everything about data analytics and machine learning systems. I am currently enrolled in a Master's program in IT for Business Data Analytics at IBS University in Budapest, Hungary. The experience has been both challenging and rewarding, and I appreciate the opportunity to study in such a dynamic and culturally rich environment. My greatest hobbies are listening to music, watching movies and immersing myself in nature through activities like hiking and camping.
-        <br><br>
-        Here, you can find a compilation of all the projects and achievements I've worked on over the past year.
-    </p>
-</body>
+<center>
 
-<!-- ![Anurag's GitHub stats] *** (https://github-readme-stats.vercel.app/api?username=mo-alrz&show_icons=true&theme=transparent) 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz)
+### Hi there, Welcome to my GitHub Profile👋
 
-![Top Langs]() -->
+I am Mohamad and I am interested in everything about data analytics and machine learning systems. I am currently enrolled in a Master's program in IT for Business Data Analytics at IBS University in Budapest, Hungary. The experience has been both challenging and rewarding, and I appreciate the opportunity to study in such a dynamic and culturally rich environment. My greatest hobbies are listening to music, watching movies and immersing myself in nature through activities like hiking and camping.
+
+Here, you can find a compilation of all the projects and achievements I've worked on over the past year.
+
+</center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; width: 45%;">
   <img height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
