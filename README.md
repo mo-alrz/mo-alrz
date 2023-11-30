@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 28px;>Hi there, Welcome to my GitHub Profile👋</a>
-<h1 align="center" style="font-size: 18px;>
+<h1 align="center">Hi there, Welcome to my GitHub Profile👋</a>
+<h1 align="center">
 I am Mohamad and I am interested in everything about data analytics and machine learning systems. I am currently enrolled in a Master's program in IT for Business Data Analytics at IBS University in Budapest, Hungary. The experience has been both challenging and rewarding, and I appreciate the opportunity to study in such a dynamic and culturally rich environment. My greatest hobbies are listening to music, watching movies and immersing myself in nature through activities like hiking and camping.
 
 Here, you can find a compilation of all the projects and achievements I've worked on over the past year.
