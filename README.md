@@ -8,9 +8,16 @@ Here, you can find a compilation of all the projects and achievements I've worke
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz)
 
 ![Top Langs]() -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; width: 45%;">
+        <img height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat" style="display: inline-block; width: 45%;">
+        <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
+    </a>
