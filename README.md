@@ -7,10 +7,10 @@ Here, you can find a compilation of all the projects and achievements I've worke
 <!-- ![Anurag's GitHub stats] *** (https://github-readme-stats.vercel.app/api?username=mo-alrz&show_icons=true&theme=transparent) 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact)-->
+![Top Langs]()-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-alrz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
 </a>
