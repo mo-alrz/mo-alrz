@@ -10,8 +10,6 @@ Here, you can find a compilation of all the projects and achievements I've worke
   <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
 </a>
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/mohammadalir721 rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-88fe1584-a132-4033-9df5-091da0dc0201' itemprop='contentURL' style='display: none;'></div>
