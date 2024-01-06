@@ -9,6 +9,9 @@ Here, you can find a compilation of all the projects and achievements I've worke
 <a href="https://github.com/anuraghazra/convoychat" style="display: inline-block; width: 45%;">
   <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-alrz&layout=compact" />
 </a>
+<a href="https://github.r2v.ch/codewars?user=malirezaeed&stroke=blue" style="display: inline-block; width: 45%;">
+  <img height="200" width="100%" src="https://github.r2v.ch/codewars?user=malirezaeed&stroke=blue" />
+</a>
 
-![Codewars](https://github.r2v.ch/codewars?user=malirezaeed&stroke=blue)
+
 
